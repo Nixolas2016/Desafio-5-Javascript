@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(35, 37, 39);  
+}
+
+section {
+    width: 90%;
+}
+
+.titulo{
+    color: yellowgreen;
+    text-align: center;
+}
+
+.sub-titulo{
+    color: yellowgreen;
+    text-align: start;
+    margin: 20px;
+}
+
+
+.product-card {
+    width: 30%;
+    height: 45vh;
+    margin: 2%;
+    text-align: center;
+    background-color: rgb(151, 16, 16);
+}
+
+p {
+    color: white;
+}
+
+.product {
+    color: aliceblue;
+}
+
+.precio{
+    color: rgb(38, 189, 24);
+}
+
+.titulo-end{
+    color: yellowgreen;
+}
+
+.solicitar{
+    color: yellowgreen;
+}
